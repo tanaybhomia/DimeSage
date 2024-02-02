@@ -1,0 +1,359 @@
+item,category
+Coffee,Food & Beverages
+Bread,Food & Beverages
+Milk,Food & Beverages
+Eggs,Food & Beverages
+Butter,Food & Beverages
+Toothpaste,Personal Care
+Shampoo,Personal Care
+Soap,Personal Care
+Toilet Paper,Household Essentials
+Dish Soap,Household Essentials
+Laundry Detergent,Household Essentials
+Fresh Vegetables,Groceries
+Fresh Fruits,Groceries
+Cheese,Dairy
+Yogurt,Dairy
+Cereal,Food & Beverages
+Rice,Groceries
+Pasta,Groceries
+Chicken Meat,Meat & Poultry
+Beef Meat,Meat & Poultry
+Fish,Seafood
+Cooking Oil,Groceries
+Spices,Groceries
+Bottled Water,Beverages
+Soft Drinks,Beverages
+Snack Bars,Snacks
+Toothbrush,Personal Care
+Deodorant,Personal Care
+Facial Tissues,Household Essentials
+Pet Food,Pets
+Bathroom Cleaner,Household Essentials
+Hand Sanitizer,Personal Care
+Feminine Hygiene Products,Personal Care
+Apples,Fresh Produce
+Bananas,Fresh Produce
+Tomatoes,Fresh Produce
+Lettuce,Fresh Produce
+Carrots,Fresh Produce
+Onions,Fresh Produce
+Bell Peppers,Fresh Produce
+Potatoes,Fresh Produce
+Garlic,Fresh Produce
+Grapes,Fresh Produce
+Strawberries,Fresh Produce
+Blueberries,Fresh Produce
+Oranges,Fresh Produce
+Applesauce,Canned Goods
+Canned Soup,Canned Goods
+Frozen Pizza,Frozen Foods
+Ice Cream,Frozen Desserts
+Frozen Vegetables,Frozen Foods
+Bread Rolls,Bakery
+Muffins,Bakery
+Cookies,Bakery
+Bagels,Bakery
+Brown Rice,Groceries
+Quinoa,Groceries
+Olive Oil,Groceries
+Peanut Butter,Spreads
+Jam,Spreads
+Honey,Spreads
+Maple Syrup,Spreads
+Cottage Cheese,Dairy
+Mozzarella Cheese,Dairy
+Cheddar Cheese,Dairy
+Greek Yogurt,Dairy
+Granola,Cereal & Granola
+Oatmeal,Cereal & Granola
+Pasta Sauce,Groceries
+Ground Beef,Meat & Poultry
+Chicken Breasts,Meat & Poultry
+Salmon,Seafood
+Shrimp,Seafood
+Tuna,Seafood
+Eggs,Food & Beverages
+Bacon,Meat & Poultry
+Sausages,Meat & Poultry
+Cooking Spray,Groceries
+Balsamic Vinegar,Groceries
+Soy Sauce,Groceries
+Coffee Beans,Food & Beverages
+Tea Bags,Beverages
+Orange Juice,Beverages
+Milk Alternatives,Dairy
+Almond Milk,Dairy
+Coconut Milk,Dairy
+Cashew Milk,Dairy
+Soy Milk,Dairy
+Lemonade,Beverages
+Chips,Snacks
+Nuts & Seeds,Snacks
+Dried Fruit,Snacks
+Chocolate,Snacks
+Popcorn,Snacks
+Scented Candles,Home Essentials
+Cleaning Wipes,Household Essentials
+Garbage Bags,Household Essentials
+Paper Towels,Household Essentials
+Fabric Softener,Household Essentials
+Dishwasher Detergent,Household Essentials
+Fresh Herbs,Fresh Produce
+Celery,Fresh Produce
+Cucumbers,Fresh Produce
+Avocado,Fresh Produce
+Spinach,Fresh Produce
+Kale,Fresh Produce
+Sweet Potatoes,Fresh Produce
+Berries,Fresh Produce
+Watermelon,Fresh Produce
+Pineapple,Fresh Produce
+Peaches,Fresh Produce
+Plums,Fresh Produce
+Cherries,Fresh Produce
+Cantaloupe,Fresh Produce
+Broccoli,Fresh Produce
+Cauliflower,Fresh Produce
+Asparagus,Fresh Produce
+Zucchini,Fresh Produce
+Eggplant,Fresh Produce
+Artichokes,Fresh Produce
+Green Beans,Fresh Produce
+Mango,Fresh Produce
+Pears,Fresh Produce
+Melons,Fresh Produce
+Radishes,Fresh Produce
+Beets,Fresh Produce
+Brussels Sprouts,Fresh Produce
+Oranges,Fresh Produce
+Grapefruit,Fresh Produce
+Limes,Fresh Produce
+Cilantro,Fresh Produce
+Parsley,Fresh Produce
+Dill,Fresh Produce
+Thyme,Fresh Produce
+Rosemary,Fresh Produce
+Basil,Fresh Produce
+Mint,Fresh Produce
+Oregano,Fresh Produce
+Sage,Fresh Produce
+Canned Beans,Canned Goods
+Canned Vegetables,Canned Goods
+Tomato Paste,Canned Goods
+Frozen Fruit,Frozen Foods
+Frozen Desserts,Frozen Foods
+Frozen Meals,Frozen Foods
+Fresh Bread,Bakery
+Croissants,Bakery
+Donuts,Bakery
+Buns,Bakery
+White Bread,Bakery
+Whole Wheat Bread,Bakery
+Baguettes,Bakery
+Ciabatta,Bakery
+Pita Bread,Bakery
+Sourdough Bread,Bakery
+Rye Bread,Bakery
+Multigrain Bread,Bakery
+Gluten-Free Bread,Bakery
+Cranberry Bread,Bakery
+Focaccia,Bakery
+Cinnamon Rolls,Bakery
+Pumpernickel Bread,Bakery
+Leather Bracelet,Jewelry
+Compact Umbrella,Outdoor Accessories
+Gaming Chair,Furniture
+Oil Diffuser,Home Decor
+Stainless Steel Mug,Kitchenware
+Portable Greenhouse,Outdoor Equipment
+Coffee Table Book,Stationery
+Electric Scooter,Outdoor Equipment
+Running Hydration Pack,Activewear
+Himalayan Salt Lamp,Home Decor
+E-reader,Electronics
+Leather Journal,Stationery
+Adjustable Dumbbells,Fitness Equipment
+Outdoor Blanket,Outdoor Accessories
+Leather Backpack,Fashion Accessories
+Bluetooth Karaoke Microphone,Electronics
+Leather Desk Accessories Set,Stationery
+Travel Adapter,Electronics
+Foldable Yoga Bench,Fitness Equipment
+Silk Sleep Mask,Personal Care
+Leather Portfolio,Stationery
+Stainless Steel Lunch Box,Kitchenware
+Running Hydration Belt,Activewear
+Portable Clothes Steamer,Appliances
+Leather Headphone Stand,Electronics
+Outdoor Picnic Blanket,Outdoor Accessories
+Wool Throw,Home Decor
+Smart Water Bottle,Electronics
+Desk Cable Organizer,Stationery
+Leather Guitar Strap,Music Instruments
+Electric Wine Cooler,Kitchenware
+Weighted Jump Rope,Fitness Equipment
+Leather Desk Chair,Furniture
+Smart Plugs,Smart Home
+Outdoor Fire Pit,Outdoor Accessories
+Leather Ankle Boots,Footwear
+Compact Sewing Machine,Appliances
+Gaming Mouse Pad,Electronics
+Wool Scarf,Fashion Accessories
+Adjustable Dumbbell Stand,Fitness Equipment
+Running Hydration Vest,Activewear
+Leather Pencil Case,Stationery
+Stainless Steel Water Bottle with Infuser,Outdoor Accessories
+Folding Dining Table,Furniture
+Smart Thermostat,Smart Home
+Leather Plant Hanger,Home Decor
+Compact Espresso Maker,Appliances
+Gaming Laptop Cooling Pad,Electronics
+Wall-Mounted Bike Rack,Outdoor Equipment
+Leather Desk Set,Stationery
+Velvet Curtains,Home Decor
+UV-C Phone Sanitizer,Personal Care
+Electric Beard Trimmer,Personal Care
+Leather Keychain,Fashion Accessories
+Wireless Charging Desk Lamp,Electronics
+Leather Wine Tote,Kitchenware
+Portable Bluetooth Printer,Electronics
+Running Arm Sleeves,Activewear
+Leather Desk Blotter,Stationery
+Adjustable Weight Bench,Fitness Equipment
+Outdoor Hammock Chair,Furniture
+Wool Blanket,Home Decor
+Leather Cozy Slippers,Footwear
+Gaming Desk,Furniture
+Compact Sewing Kit,Stationery
+Leather Desk Mat,Stationery
+Bicycle Repair Kit,Outdoor Equipment
+Desk Organizer Set,Stationery
+Leather Camera Strap,Photography Accessories
+Bamboo Utensil Set,Kitchenware
+Rolling Backpack,Travel Accessories
+Compact Air Mattress,Outdoor Equipment
+Leather Watch Box,Fashion Accessories
+Smart Lock,Smart Home
+Wool Gloves,Fashion Accessories
+Running Shoe Insoles,Activewear
+Leather Coaster Set,Home Decor
+Bluetooth Car Kit,Electronics
+Collapsible Water Bottle,Outdoor Accessories
+Leather Laptop Backpack,Fashion Accessories
+Foldable Camping Chair,Outdoor Furniture
+Digital Art Tablet,Electronics
+Wool Beanie,Apparel
+Running Arm Band,Activewear
+Leather Desk Organizer,Stationery
+Wine Aerator,Barware
+Portable Projection Screen,Electronics
+Smart Scale,Fitness Equipment
+Leather Coin Purse,Fashion Accessories
+Sleeping Bag,Outdoor Equipment
+Compact Blender,Appliances
+Leather Book Cover,Stationery
+Portable Grill,Outdoor Cooking
+Running Backpack,Activewear
+Bamboo Desk Organizer,Stationery
+Camping Lantern,Outdoor Accessories
+Leather Passport Wallet,Travel Accessories
+Wireless Charging Mouse Pad,Electronics
+Wool Pillow,Home Decor
+Gaming Console Organizer,Furniture
+Portable Fan,Electronics
+Leather Business Card Holder,Fashion Accessories
+Foldable Yoga Mat,Fitness Equipment
+Dog Leash,Outdoor Accessories
+Leather Napkin Rings,Home Decor
+Bluetooth Sport Headphones,Electronics
+Portable Jump Starter,Auto Accessories
+Running Reflective Vest,Activewear
+Leather Luggage Set,Travel Accessories
+Desk Fan,Home Appliances
+Yoga Bolster,Fitness Equipment
+Collapsible Storage Bins,Home Organizers
+Leather Tassel Keychain,Fashion Accessories
+Solar Charger,Outdoor Accessories
+Wool Cardigan,Apparel
+Running Waist Belt,Activewear
+Leather Portfolio Case,Stationery
+Portable Espresso Maker,Appliances
+Leather Desk Chair,Furniture
+Bicycle Repair Tool Kit,Outdoor Accessories
+Compact Food Processor,Appliances
+Wireless Gaming Mouse,Electronics
+Wool Scarf,Fashion Accessories
+Adjustable Desk Lamp,Home Decor
+Camping Cot,Outdoor Furniture
+Leather Wallet with Coin Pocket,Fashion Accessories
+Compact Sewing Kit,Stationery
+Running Shoe Laces,Activewear
+Leather Journal Cover,Stationery
+Portable Bluetooth Speaker,Electronics
+Gaming Controller Stand,Electronics
+Wool Socks,Activewear
+Desk Cable Management Clips,Stationery
+Wireless Charging Stand,Electronics
+Leather Glasses Case,Fashion Accessories
+Compact Vacuum Cleaner,Appliances
+Running Shoe Inserts,Activewear
+Leather Dog Collar,Pet Accessories
+Bamboo Desk Lamp,Home Decor
+Foldable Laptop Stand,Electronics
+Outdoor Hammock,Outdoor Furniture
+Leather Desk Blotter,Stationery
+Desk Drawer Organizer,Home Organizers
+Leather Desk Set,Stationery
+Bicycle Repair Stand,Outdoor Accessories
+Compact Refrigerator,Appliances
+Wool Throw Pillow,Home Decor
+Running Water Belt,Activewear
+Leather Bookends,Home Decor
+Portable Projector,Electronics
+Bluetooth Sport Earbuds,Electronics
+Desk Cable Management Sleeve,Stationery
+Wool Poncho,Fashion Accessories
+Leather Desk Organizer,Stationery
+Compact Air Purifier,Appliances
+Running Arm Band,Activewear
+Bamboo Desk Organizer,Stationery
+Coffee,Food & Beverages
+Bread,Food & Beverages
+Milk,Food & Beverages
+Eggs,Food & Beverages
+Butter,Food & Beverages
+Toothpaste,Personal Care
+Shampoo,Personal Care
+Soap,Personal Care
+Toilet Paper,Household Essentials
+Dish Soap,Household Essentials
+Laundry Detergent,Household Essentials
+Fresh Vegetables,Groceries
+Fresh Fruits,Groceries
+Cheese,Dairy
+Yogurt,Dairy
+Cereal,Food & Beverages
+Rice,Groceries
+Pasta,Groceries
+Chicken Meat,Meat & Poultry
+Beef Meat,Meat & Poultry
+Fish,Seafood
+Cooking Oil,Groceries
+Spices,Groceries
+Bottled Water,Beverages
+Soft Drinks,Beverages
+Snack Bars,Snacks
+Candles,Home Essentials
+Toothbrush,Personal Care
+Deodorant,Personal Care
+Facial Tissues,Household Essentials
+Pet Food,Pets
+Bathroom Cleaner,Household Essentials
+Hand Sanitizer,Personal Care
+Feminine Hygiene Products,Personal Care
+Apples,Fresh Produce
+Bananas,Fresh Produce
+Tomatoes,Fresh Produce
+Laptop,Electronics
+something,else
