@@ -54,10 +54,4 @@ financial_scores = {
 
 ## Apply Weights and Calculate Overall Financial Score:
 
-\[ \text{Overall Financial Score} = 0.5 \times \text{Income vs. Expense Ratio} + 0.3 \times \text{Saving Rate} + 0.2 \times \text{Budget Adherence} + 0.1 \times \text{Goal Funding} \]
-
-\[ \text{Overall Financial Score} = 0.5 \times 16.67 + 0.3 \times 100 + 0.2 \times 100 + 0.1 \times \left(\frac{100 + 100}{2}\right) \]
-
-\[ \text{Overall Financial Score} \approx 8.335 + 30 + 20 + 5 = 63.335 \]
-
-So, the final financial score for User 1 is approximately 63.335.
+![alt text](image.png)
