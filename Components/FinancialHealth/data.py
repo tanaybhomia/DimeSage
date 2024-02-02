@@ -4,8 +4,8 @@ from model import UserProfile, ExpenseCategory, Expense, FinancialScore  # Add t
 
 # Sample data for illustration
 user_profiles = {
-    1: UserProfile(user_id=1, income=5000, savings=1000, goals=['Buy a car', 'Vacation']),
-    2: UserProfile(user_id=2, income=7000, savings=1500, goals=['Home renovation']),
+    1: UserProfile(user_id=1, income=5000, savings=5000, goals=[{'name': 'Buy a car', 'amount': 10000, 'current_amount': 10000}, {'name': 'Vacation', 'amount': 5000, 'current_amount': 5000}]),
+    2: UserProfile(user_id=2, income=7000, savings=1500, goals=[{'name': 'Home renovation', 'amount': 20000, 'current_amount': 5000}]),
 }
 
 expense_categories = {

@@ -1,45 +1,63 @@
-## Works as Follows
+````python
+# Financial Score Calculation
 
-Certainly! The financial score is calculated based on four main criteria, each contributing a certain weight to the overall score. Here's a breakdown of the calculation:
+## Data:
 
-### 1. Income vs. Expense Ratio (50% Weight)
+```python
+# Sample data for illustration
+user_profiles = {
+    1: UserProfile(user_id=1, income=5000, savings=5000, goals=[{'name': 'Buy a car', 'amount': 10000, 'current_amount': 10000}, {'name': 'Vacation', 'amount': 5000, 'current_amount': 5000}]),
+    # ... (other user profiles)
+}
 
-This ratio represents how well a user's total monthly income compares to their total monthly expenses. The formula is:
+expenses = {
+    1: [Expense(user_id=1, category_id=1, amount=200, date=date(2024, 1, 15)), Expense(user_id=1, category_id=2, amount=100, date=date(2024, 1, 20))],
+    # ... (other expenses)
+}
 
-\[ \text{Income vs. Expense Ratio} = \frac{\text{Total Monthly Income}}{\text{Total Monthly Expenses}} \]
+financial_scores = {
+    1: FinancialScore(user_id=1, score=None),  # Initialize with None, to be calculated
+    # ... (other financial scores)
+}
+```
+````
 
-The weight for this criterion is 50% of the overall score.
+## Calculation for User 1:
 
-### 2. Saving Rate (30% Weight)
+1. **Calculate Income vs. Expense Ratio (50% Weight):**
 
-The saving rate is the percentage of a user's income that they save each month, including contributions towards their goal funds. The formula is:
+   - Total Income: $5000
+   - Total Expenses: $200 + $100 = $300
+   - Income vs. Expense Ratio: \[ \frac{5000}{300} \approx 16.67 \]
 
-\[ \text{Saving Rate} = \frac{\text{Total Monthly Savings}}{\text{Total Monthly Income}} \times 100 \]
+2. **Calculate Saving Rate (30% Weight):**
 
-The weight for this criterion is 30% of the overall score.
+   - Total Income: $5000
+   - Total Savings: $5000
+   - Saving Rate: \[ \frac{5000}{5000} \times 100 = 100\% \]
 
-### 3. Budget Adherence (20% Weight)
+3. **Calculate Budget Adherence (20% Weight):**
 
-Budget adherence assesses how well a user sticks to their budget for various expense categories. The formula is:
+   - Total Budgeted Expenses: $200 + $100 = $300 (Assumed budgeted expenses are the same as actual expenses for simplicity)
+   - Total Actual Expenses: $300
+   - Budget Adherence: \[ \frac{300}{300} \times 100 = 100\% \]
 
-\[ \text{Budget Adherence} = \frac{\text{Total Actual Expenses}}{\text{Total Budgeted Expenses}} \times 100 \]
+4. **Calculate Goal Funding (10% Weight):**
+   - Buy a Car Goal:
+     - Goal Amount: $10,000
+     - Current Amount Saved: $10,000
+     - Goal Funding Percentage: \[ \frac{10,000}{10,000} \times 100 = 100\% \]
+   - Vacation Goal:
+     - Goal Amount: $5,000
+     - Current Amount Saved: $5,000
+     - Goal Funding Percentage: \[ \frac{5,000}{5,000} \times 100 = 100\% \]
 
-The weight for this criterion is 20% of the overall score.
+## Apply Weights and Calculate Overall Financial Score:
 
-### 4. Goal Funding (10% Weight)
+\[ \text{Overall Financial Score} = 0.5 \times \text{Income vs. Expense Ratio} + 0.3 \times \text{Saving Rate} + 0.2 \times \text{Budget Adherence} + 0.1 \times \text{Goal Funding} \]
 
-Goal funding considers whether the user has set and achieved their financial goals. The formula is:
+\[ \text{Overall Financial Score} = 0.5 \times 16.67 + 0.3 \times 100 + 0.2 \times 100 + 0.1 \times \left(\frac{100 + 100}{2}\right) \]
 
-\[ \text{Goal Funding} = \frac{\text{Number of Achieved Goals}}{\text{Total Number of Goals}} \times 100 \]
+\[ \text{Overall Financial Score} \approx 8.335 + 30 + 20 + 5 = 63.335 \]
 
-The weight for this criterion is 10% of the overall score.
-
-### Overall Financial Score Calculation
-
-The overall financial score is calculated by combining the scores from each criterion with their respective weights:
-
-\[ \text{Overall Financial Score} = (0.5 \times \text{Income vs. Expense Ratio}) + (0.3 \times \text{Saving Rate}) + (0.2 \times \text{Budget Adherence}) + (0.1 \times \text{Goal Funding}) \]
-
-This composite score provides a comprehensive evaluation of the user's financial health, taking into account income, expenses, savings, budget adherence, and goal achievements.
-
-The score ranges from 0 to 100, with higher scores indicating better financial health. Users can use this score as a metric to assess and improve their financial well-being over time.
+So, the final financial score for User 1 is approximately 63.335.

@@ -29,9 +29,12 @@ def calculate_budget_adherence(user_id):
 def calculate_goal_funding(user_id):
     user_profile = user_profiles[user_id]
     total_goals = len(user_profile.goals)
-    achieved_goals = 0  # For simplicity, assuming all goals are achieved in this example
     
-    goal_funding = (achieved_goals / total_goals) * 100 if total_goals != 0 else 0
+    if total_goals == 0:
+        return 0  # No goals set, consider goal funding as 0%
+
+    achieved_goals = sum(1 for goal in user_profile.goals if goal['current_amount'] >= goal['amount'])
+    goal_funding = (achieved_goals / total_goals) * 100
     return goal_funding
 
 def calculate_financial_score(user_id):
